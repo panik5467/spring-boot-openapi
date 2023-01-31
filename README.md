@@ -1,5 +1,9 @@
 ## Sample Spring Boot RESTful service using OpenAPI 3
 
+### Launch spring-boot
+
+./mvnw spring-boot:run
+
 ### Step 1 - Adding OpenAPI to our project
 
 First, we need to add the dependency to our pom.xml:
