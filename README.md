@@ -7,7 +7,7 @@ First, we need to add the dependency to our pom.xml:
 <dependency>
     <groupId>org.springdoc</groupId>
     <artifactId>springdoc-openapi-ui</artifactId>
-    <version>1.5.10</version>
+    <version>1.6.14</version>
 </dependency>
 ```
 
